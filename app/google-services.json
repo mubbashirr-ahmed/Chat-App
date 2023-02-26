@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "579476001908",
+    "firebase_url": "https://authentication-users-790a9-default-rtdb.firebaseio.com",
+    "project_id": "authentication-users-790a9",
+    "storage_bucket": "authentication-users-790a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579476001908:android:736a37ad1cd0a44d1f2d21",
+        "android_client_info": {
+          "package_name": "com.example.socialmediamobileqev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579476001908-28udjpvsto872m6os0vfou9c1ijtl89r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrl6mmvrCzYAwMJvQ_S88oUosis21ZgXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579476001908-28udjpvsto872m6os0vfou9c1ijtl89r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
